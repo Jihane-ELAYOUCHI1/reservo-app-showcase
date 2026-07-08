@@ -89,3 +89,19 @@ Pour garantir une expérience cohérente entre le Dashboard Admin (React) et l'A
 | **Input Field** | Fond de champ `beigeWarm` sans bordure par défaut | Normal, Erreur (texte terracotta), Focus (bordure `orangeEarth`) |
 | **SnackBar** | Notification temporaire (toast) fond `brownDeep` | Succès, Erreur, Info |
 | **Tab Bar** | Navigation horizontale. Fond blanc, indicateur actif `brownDeep` | Adapté pour KDS (En attente / En préparation) et Caisse |
+
+---
+
+## 5. Galerie d'Écrans
+
+> *Pour illustrer ce Design System, vous pouvez placer vos captures d'écran dans le dossier `docs/images/`.*
+
+### Application Mobile
+- **Plan de Salle** : `![Plan de Salle](docs/images/mobile_plan_salle.png)`
+- **Catalogue & Prise de Commande** : `![Catalogue](docs/images/mobile_catalogue.png)`
+- **KDS Cuisine** : `![KDS](docs/images/mobile_kds.png)`
+- **Écran Caisse** : `![Caisse](docs/images/mobile_caisse.png)`
+
+### Dashboard Web
+- **Tableau de Bord** : `![Dashboard](docs/images/dashboard_home.png)`
+- **Gestion des Produits** : `![Produits](docs/images/dashboard_produits.png)`

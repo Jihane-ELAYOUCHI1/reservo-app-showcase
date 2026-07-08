@@ -30,6 +30,26 @@ Pour découvrir le projet en détail, veuillez consulter les documents thématiq
 
 ---
 
+## 🖼️ Aperçus du Projet
+
+> *Ajoutez ici vos captures d'écran en remplaçant les chemins d'images vers le dossier `docs/images/`*
+
+### Application Mobile (Serveurs & KDS)
+<div align="center">
+  <img src="docs/images/mobile_kds.png" width="250" alt="Écran KDS" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/images/mobile_plan_salle.png" width="250" alt="Plan de Salle" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/images/mobile_panier.png" width="250" alt="Panier" />
+</div>
+
+### Dashboard Administrateur (React)
+<div align="center">
+  <img src="docs/images/dashboard_home.png" width="800" alt="Dashboard Admin" />
+</div>
+
+---
+
 ## 1. Présentation Générale
 
 ### 1.1 Description du Projet
